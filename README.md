@@ -1,4 +1,4 @@
-# 🤖 Jarvis — Voice-Controlled Personal Assistant
+# 🤖 Jarvis — AI voice Assistant
 
 A Python-based voice-controlled personal assistant for Windows that listens for a wake word and executes a wide range of commands — from opening websites and playing music to sending emails, telling jokes, and controlling system volume.
 
